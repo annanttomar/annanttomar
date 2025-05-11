@@ -9,7 +9,9 @@
 - ⚡ Fun fact: I'm a side athelete and basketballer
 
 <details>
-  <summary>My GitHub Stats</summary>
+  <summary>My GitHub Stats 💁‍♂️</summary>
   <br>
   <img align="left" alt="Anant Singh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=annanttomar&show_icons=true&hide_border=true&theme=radical" />
 </details>
+
+### Thank You So Much For Visiting My Github Profile!
