@@ -1,4 +1,4 @@
-### Hi there, I'm Anant Singh - aka [Anant][https://annanttomar] 👋 
+### Hi there, I'm Anant Singh - aka [Anant][https://github.com/annanttomar] 👋 
 
 - 🔭 I’m currently working on various projects
 - 🌱 I’m currently learning android application development
