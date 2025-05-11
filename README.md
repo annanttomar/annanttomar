@@ -1,4 +1,4 @@
-### Hi there, I'm Anant Singh - aka [Anant](https://github.com/annanttomar) 👋 
+# Hi there, I'm Anant Singh - aka [Anant](https://github.com/annanttomar) 👋 
 
 - 🔭 I’m currently working on various projects
 - 🌱 I’m currently learning android application development
@@ -7,3 +7,9 @@
 - 📫 How to reach me: @annant (On Discord)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a side athelete and basketballer
+
+<details>
+  <summary>My GitHub Stats</summary>
+  <br>
+  <img align="left" alt="Anant Singh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=annanttomar&show_icons=true&hide_border=true&theme=radical" />
+</details>
