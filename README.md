@@ -7,4 +7,3 @@
 - 📫 How to reach me: @annant (On Discord)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a side athelete and basketballer
--->
