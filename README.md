@@ -4,7 +4,7 @@
 - 🔭 I’m currently contributing in [PreMid](https://github.com/PreMiD/), and working on my own projects  
   
 
-- 🌱 I’m currently learning Cyber Security  
+- 🌱 I’m currently learning about Cyber Security  
   
 
 - ❓ Ask me about anything related to web development  
