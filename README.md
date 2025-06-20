@@ -2,4 +2,4 @@
 
 ![](https://komarev.com/ghpvc/?username=annanttomar)
 ---
-Trying to learn something day by day about programming
+Trying to learn something day by day about new technologies.
